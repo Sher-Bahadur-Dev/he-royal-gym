@@ -1,0 +1,6 @@
+{
+  "name": "The Royal Gym",
+  "description": "Official website concept for The Royal Gym in Gulberg III, Lahore. Build strength, improve fitness, and train with purpose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
